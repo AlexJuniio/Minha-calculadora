@@ -4,8 +4,5 @@ HTML
 CSS
 JavaScript
 
-## License
-MIT
-
 ## Developer
 Alex Júnio
